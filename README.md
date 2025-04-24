@@ -5,4 +5,3 @@ If you have any questions or comments about the appendix or the paper, please co
 
 We really appreciate your suggestions!
 
-Updating.
